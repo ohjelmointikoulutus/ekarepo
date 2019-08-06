@@ -1,1 +1,2 @@
 Teköalykoodia
+Rivi 2
