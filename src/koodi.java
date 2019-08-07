@@ -1,3 +1,1 @@
-println("Hei, maailma!");
-toinen rivi
-String teksti = scanline();
+Tämä rivi lisättiin master-branchissä
